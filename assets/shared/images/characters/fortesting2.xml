@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fortesting.png"><SubTexture name="fortesting2 idle0000" x="0" y="0" width="346" height="439" frameX="-69" frameY="-32" frameWidth="460" frameHeight="503" />
+<SubTexture name="fortesting2 left0000" x="346" y="0" width="346" height="439" frameX="-69" frameY="-32" frameWidth="460" frameHeight="503" />
+<SubTexture name="fortesting2 right0000" x="692" y="0" width="346" height="439" frameX="-69" frameY="-32" frameWidth="460" frameHeight="503" />
+<SubTexture name="fortesting2 up0000" x="0" y="439" width="346" height="439" frameX="-69" frameY="-32" frameWidth="460" frameHeight="503" />
+<SubTexture name="fortesting2 down0000" x="346" y="439" width="346" height="439" frameX="-69" frameY="-32" frameWidth="460" frameHeight="503" />
+</TextureAtlas>

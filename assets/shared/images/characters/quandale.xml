@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="quandale.png"><SubTexture name="quandale idle0000" x="949" y="0" width="232" height="486" frameX="-48" frameY="-16" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale idle0001" x="0" y="663" width="232" height="457" frameX="-48" frameY="-46" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale idle0002" x="787" y="663" width="232" height="416" frameX="-48" frameY="-88" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale down0000" x="1181" y="777" width="232" height="314" frameX="-48" frameY="-191" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale down0001" x="302" y="1120" width="232" height="292" frameX="-48" frameY="-213" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale down0002" x="534" y="1120" width="232" height="232" frameX="-48" frameY="-274" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale left0000" x="696" y="0" width="253" height="489" frameX="-17" frameY="-20" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale left0001" x="232" y="663" width="253" height="439" frameX="-17" frameY="-70" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale left0002" x="1181" y="392" width="253" height="385" frameX="-17" frameY="-124" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale right0000" x="485" y="663" width="302" height="435" frameX="-3" frameY="-65" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale right0001" x="1181" y="0" width="302" height="392" frameX="-3" frameY="-109" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale right0002" x="0" y="1120" width="302" height="352" frameX="-3" frameY="-150" frameWidth="347" frameHeight="509" />
+<SubTexture name="quandale up0000" x="464" y="0" width="232" height="574" frameX="-48" frameY="-92" frameWidth="347" frameHeight="674" />
+<SubTexture name="quandale up0001" x="232" y="0" width="232" height="629" frameX="-48" frameY="-36" frameWidth="347" frameHeight="674" />
+<SubTexture name="quandale up0002" x="0" y="0" width="232" height="663" frameX="-48" frameY="-2" frameWidth="347" frameHeight="674" />
+</TextureAtlas>

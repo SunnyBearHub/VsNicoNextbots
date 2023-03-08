@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="di.png"><SubTexture name="di idle0000" x="0" y="0" width="218" height="478" frameX="-197" frameY="-20" frameWidth="593" frameHeight="509" />
+<SubTexture name="di idle0001" x="218" y="0" width="246" height="396" frameX="-177" frameY="-104" frameWidth="593" frameHeight="509" />
+<SubTexture name="di idle0002" x="464" y="0" width="289" height="316" frameX="-157" frameY="-186" frameWidth="593" frameHeight="509" />
+</TextureAtlas>

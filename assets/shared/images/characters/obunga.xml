@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="obunga.png"><SubTexture name="obunga down0000" x="3140" y="850" width="710" height="805" frameX="-335" frameY="-298" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga down0001" x="3140" y="1655" width="710" height="752" frameX="-335" frameY="-351" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga down0002" x="2384" y="2812" width="710" height="673" frameX="-335" frameY="-431" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga idle0000" x="3140" y="0" width="907" height="850" frameX="-335" frameY="-253" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga idle0001" x="0" y="2812" width="1137" height="765" frameX="-263" frameY="-338" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga idle0002" x="1137" y="2812" width="1247" height="692" frameX="-220" frameY="-411" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga left0000" x="2173" y="0" width="967" height="883" frameX="-335" frameY="-220" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga left0001" x="0" y="1005" width="998" height="942" frameX="-335" frameY="-161" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga left0002" x="0" y="0" width="1106" height="1005" frameX="-335" frameY="-98" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga right0000" x="2070" y="1947" width="937" height="854" frameX="-335" frameY="-249" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga right0001" x="0" y="1947" width="1007" height="865" frameX="-335" frameY="-238" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga right0002" x="1007" y="1947" width="1063" height="862" frameX="-335" frameY="-241" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga up0000" x="2173" y="883" width="924" height="871" frameX="-336" frameY="-232" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga up0001" x="998" y="1005" width="1002" height="933" frameX="-336" frameY="-170" frameWidth="1467" frameHeight="1325" />
+<SubTexture name="obunga up0002" x="1106" y="0" width="1067" height="976" frameX="-337" frameY="-127" frameWidth="1467" frameHeight="1325" />
+</TextureAtlas>

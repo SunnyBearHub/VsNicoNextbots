@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sancool.png"><SubTexture name="sancool ani0000" x="2210" y="589" width="633" height="587" frameX="-322" frameY="-183" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool ani0001" x="2210" y="1176" width="633" height="587" frameX="-322" frameY="-183" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool ani0002" x="0" y="0" width="596" height="753" frameX="-322" frameY="-17" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool ani0003" x="1634" y="0" width="576" height="631" frameX="-322" frameY="-139" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool ani0004" x="0" y="2038" width="590" height="587" frameX="-322" frameY="-183" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool ani0005" x="590" y="2038" width="576" height="587" frameX="-322" frameY="-183" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool down0000" x="1742" y="2038" width="576" height="547" frameX="-322" frameY="-224" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool down0001" x="2847" y="1066" width="576" height="486" frameX="-322" frameY="-286" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool down0002" x="2847" y="2012" width="576" height="441" frameX="-322" frameY="-332" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool 1dleALT0000" x="1166" y="2038" width="576" height="587" frameX="-322" frameY="-183" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool 1dleALT0001" x="2847" y="539" width="619" height="527" frameX="-304" frameY="-244" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool 1dleALT0002" x="2847" y="1552" width="677" height="460" frameX="-261" frameY="-312" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool idle0000" x="2210" y="0" width="637" height="589" frameX="-320" frameY="-181" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool idle0001" x="2847" y="0" width="686" height="539" frameX="-296" frameY="-232" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool idle0002" x="0" y="2625" width="727" height="477" frameX="-276" frameY="-295" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool left0000" x="528" y="1416" width="596" height="596" frameX="-295" frameY="-167" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool left0001" x="1634" y="631" width="559" height="622" frameX="-290" frameY="-141" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool left0002" x="0" y="753" width="528" height="663" frameX="-285" frameY="-100" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool right0000" x="1124" y="1416" width="570" height="593" frameX="-328" frameY="-163" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool right0001" x="0" y="1416" width="528" height="622" frameX="-381" frameY="-134" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool right0002" x="528" y="753" width="496" height="646" frameX="-430" frameY="-110" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool up0000" x="1024" y="753" width="576" height="639" frameX="-322" frameY="-131" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool up0001" x="1094" y="0" width="540" height="681" frameX="-340" frameY="-89" frameWidth="1302" frameHeight="991" />
+<SubTexture name="sancool up0002" x="596" y="0" width="498" height="717" frameX="-364" frameY="-53" frameWidth="1302" frameHeight="991" />
+</TextureAtlas>

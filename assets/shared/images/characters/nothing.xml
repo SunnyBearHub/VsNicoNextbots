@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nothing.png"><SubTexture name="nothing death0000" x="502" y="0" width="500" height="338" frameX="-164" frameY="-155" frameWidth="790" frameHeight="601" />
+<SubTexture name="nothing death0001" x="0" y="0" width="502" height="341" frameX="-163" frameY="-154" frameWidth="790" frameHeight="601" />
+</TextureAtlas>

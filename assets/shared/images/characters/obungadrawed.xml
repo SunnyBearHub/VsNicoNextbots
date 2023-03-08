@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="obungadrawed.png"><SubTexture name="obungadrawed idle0000" x="2018" y="1274" width="902" height="636" frameX="-228" frameY="-73" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed idle0001" x="0" y="2015" width="936" height="577" frameX="-228" frameY="-132" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed idle0002" x="936" y="2015" width="968" height="508" frameX="-228" frameY="-201" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed down0000" x="1904" y="2015" width="1010" height="506" frameX="-603" frameY="-181" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed down0001" x="0" y="2592" width="718" height="460" frameX="-608" frameY="-227" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed down0002" x="718" y="2592" width="1098" height="381" frameX="-228" frameY="-328" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed left0000" x="901" y="1358" width="902" height="642" frameX="-228" frameY="-67" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed left0001" x="0" y="1358" width="901" height="657" frameX="-228" frameY="-52" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed left0002" x="0" y="0" width="896" height="686" frameX="-228" frameY="-23" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed right0000" x="2688" y="637" width="686" height="620" frameX="-640" frameY="-67" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed right0001" x="0" y="686" width="1122" height="672" frameX="-204" frameY="-37" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed right0002" x="896" y="0" width="1122" height="686" frameX="-204" frameY="-23" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed up0000" x="2018" y="0" width="1502" height="637" frameX="-228" frameY="-72" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed up0001" x="2018" y="637" width="670" height="637" frameX="-656" frameY="-50" frameWidth="1768" frameHeight="709" />
+<SubTexture name="obungadrawed up0002" x="1122" y="686" width="376" height="665" frameX="-675" frameY="-13" frameWidth="1768" frameHeight="709" />
+</TextureAtlas>

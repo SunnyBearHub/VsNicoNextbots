@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pc.png"><SubTexture name="pc idle0000" x="0" y="0" width="715" height="594" frameX="-410" frameY="0" frameWidth="1430" frameHeight="594" />
+<SubTexture name="pc idle0001" x="715" y="0" width="715" height="594" frameX="-410" frameY="0" frameWidth="1430" frameHeight="594" />
+<SubTexture name="pc down0000" x="0" y="594" width="715" height="594" frameX="-410" frameY="0" frameWidth="1430" frameHeight="594" />
+<SubTexture name="pc left0000" x="715" y="594" width="715" height="594" frameX="-410" frameY="0" frameWidth="1430" frameHeight="594" />
+<SubTexture name="pc right0000" x="1430" y="0" width="715" height="594" frameX="-410" frameY="0" frameWidth="1430" frameHeight="594" />
+<SubTexture name="pc up0000" x="1430" y="594" width="715" height="594" frameX="-410" frameY="0" frameWidth="1430" frameHeight="594" />
+</TextureAtlas>

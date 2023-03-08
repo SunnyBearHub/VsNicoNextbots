@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nathaniel-b.png"><SubTexture name="nathaniel-b idle0000" x="0" y="0" width="528" height="561" frameX="-143" frameY="-33" frameWidth="790" frameHeight="601" />
+<SubTexture name="nathaniel-b idle0001" x="528" y="0" width="528" height="472" frameX="-143" frameY="-124" frameWidth="790" frameHeight="601" />
+<SubTexture name="nathaniel-b idle0002" x="0" y="561" width="528" height="382" frameX="-143" frameY="-215" frameWidth="790" frameHeight="601" />
+<SubTexture name="nathaniel-b idle0003" x="528" y="561" width="528" height="219" frameX="-143" frameY="-380" frameWidth="790" frameHeight="601" />
+</TextureAtlas>

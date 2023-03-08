@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="obumna.png"><SubTexture name="obumna idle0000" x="823" y="587" width="354" height="451" frameX="-216" frameY="-86" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna idle0001" x="522" y="1081" width="385" height="366" frameX="-193" frameY="-184" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna idle0002" x="1626" y="0" width="439" height="279" frameX="-173" frameY="-283" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna down0000" x="0" y="1081" width="522" height="367" frameX="-136" frameY="-174" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna down0001" x="907" y="1081" width="558" height="320" frameX="-117" frameY="-229" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna left0000" x="334" y="587" width="489" height="466" frameX="-142" frameY="-84" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna left0001" x="1210" y="0" width="416" height="466" frameX="-121" frameY="-84" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna right0000" x="621" y="0" width="589" height="526" frameX="-105" frameY="-43" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna right0001" x="0" y="0" width="621" height="587" frameX="-88" frameY="-13" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna up0000" x="1210" y="466" width="369" height="455" frameX="-209" frameY="-118" frameWidth="790" frameHeight="601" />
+<SubTexture name="obumna up0001" x="0" y="587" width="334" height="494" frameX="-225" frameY="-77" frameWidth="790" frameHeight="601" />
+</TextureAtlas>
