@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rob idle"
+		},
+		{
+			"offsets": [
+				20,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rob left"
+		},
+		{
+			"offsets": [
+				30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rob down"
+		},
+		{
+			"offsets": [
+				42,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rob up"
+		},
+		{
+			"offsets": [
+				110,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rob right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rob",
+	"position": [
+		-300,
+		-50
+	],
+	"healthicon": "roblox",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		100,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

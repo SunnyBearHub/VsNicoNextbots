@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-145,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "aheno left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "aheno down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "aheno up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "aheno right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				10
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "aheno idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aheno",
+	"position": [
+		-400,
+		-150
+	],
+	"healthicon": "ahhenobob",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		1,
+		1
+	],
+	"camera_position": [
+		150,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

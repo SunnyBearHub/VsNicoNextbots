@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sanicmad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sanicmad left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sanicmad down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sanicmad up"
+		},
+		{
+			"offsets": [
+				72,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sanicmad right"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 29,
+			"anim": "gun",
+			"indices": [],
+			"name": "sanicmad gun"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sanicmad",
+	"position": [
+		-550,
+		-50
+	],
+	"healthicon": "sanicmad",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		72,
+		204
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

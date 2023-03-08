@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfpng idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				84
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfpng left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				89
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfpng down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfpng up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfpng right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "bfpng down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfpng",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "dearlordhelp",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

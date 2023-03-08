@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "quandale idle"
+		},
+		{
+			"offsets": [
+				65,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "quandale left"
+		},
+		{
+			"offsets": [
+				-10,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "quandale down"
+		},
+		{
+			"offsets": [
+				-6,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "quandale up"
+		},
+		{
+			"offsets": [
+				-48,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "quandale right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/quandale",
+	"position": [
+		200,
+		50
+	],
+	"healthicon": "dingle",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		40,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
