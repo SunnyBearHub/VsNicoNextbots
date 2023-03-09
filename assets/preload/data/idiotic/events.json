@@ -1,0 +1,241 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "storage",
+		"player1": "bfscared",
+		"player2": "idiot",
+		"player3": null,
+		"events": [
+			[
+				11067.0731707317,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				11707.3170731707,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"3"
+					]
+				]
+			],
+			[
+				11711.1280487805,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				11737.8048780488,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				35121.9512195122,
+				[
+					[
+						"bgchnage",
+						"black",
+						""
+					]
+				]
+			],
+			[
+				35129.5731707317,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pc"
+					]
+				]
+			],
+			[
+				35137.1951219512,
+				[
+					[
+						"Change Character",
+						"gf",
+						"nothing"
+					]
+				]
+			],
+			[
+				35144.8170731707,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nothing"
+					]
+				]
+			],
+			[
+				58536.5853658537,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				58540.3963414634,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				58544.2073170732,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfscared"
+					]
+				]
+			],
+			[
+				58548.0182926829,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				58551.8292682927,
+				[
+					[
+						"Change Character",
+						"dad",
+						"idiot"
+					]
+				]
+			],
+			[
+				58555.6402439025,
+				[
+					[
+						"bgchnage",
+						"storage",
+						""
+					]
+				]
+			],
+			[
+				81768.2926829268,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93658.5365853657,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				117073.170731707,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				127865.853658536,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				128140.243902439,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				128780.487804878,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				140121.951219512,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				140487.804878049,
+				[
+					[
+						"Image Flash",
+						"black",
+						"20"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 164,
+		"arrowSkin": "NOTE_assetsG",
+		"needsVoices": true,
+		"cameraMoveOnNotes": null,
+		"song": "idiotic"
+	}
+}

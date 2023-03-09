@@ -1,0 +1,31 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "sanicmanmad",
+		"player1": "bf-shademad",
+		"player2": "sanicmad",
+		"player3": null,
+		"events": [
+			[
+				95911.7647058822,
+				[
+					[
+						"Screen Shake",
+						"1,0.15",
+						"0.20"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": null,
+		"validScore": false,
+		"gfVersion": "gf-scared2",
+		"bpm": 170,
+		"arrowSkin": "NOTE_assetsG",
+		"needsVoices": true,
+		"cameraMoveOnNotes": null,
+		"song": "MLG"
+	}
+}

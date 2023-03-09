@@ -1,0 +1,81 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "ahhhh",
+		"player1": "bf",
+		"player2": "aheno",
+		"player3": null,
+		"events": [
+			[
+				1846.15384615385,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				3692.30769230769,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				5538.46153846154,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				7384.61538461538,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				7389.42307692308,
+				[
+					[
+						"Cam Boom Speed",
+						"3",
+						"4"
+					]
+				]
+			],
+			[
+				7394.23076923077,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": null,
+		"validScore": false,
+		"gfVersion": "gf-scared22",
+		"bpm": 130,
+		"arrowSkin": "NOTE_assetsG",
+		"needsVoices": true,
+		"cameraMoveOnNotes": null,
+		"song": "fright"
+	}
+}

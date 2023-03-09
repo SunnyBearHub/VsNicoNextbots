@@ -1,0 +1,31 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "runningquandale",
+		"player1": "runbf",
+		"player2": "quandale",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"black",
+						"14.4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": null,
+		"validScore": false,
+		"gfVersion": "gf-invis",
+		"bpm": 150,
+		"arrowSkin": "NOTE_assetsG",
+		"needsVoices": true,
+		"cameraMoveOnNotes": null,
+		"song": "crimes"
+	}
+}

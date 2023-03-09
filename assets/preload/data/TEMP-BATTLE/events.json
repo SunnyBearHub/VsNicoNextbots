@@ -1,0 +1,20 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "temptest2",
+		"player1": "yoshi_s",
+		"player2": "testtemp2",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"characterTrails": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 147,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"cameraMoveOnNotes": null,
+		"song": "TEMP-BATTLE"
+	}
+}
